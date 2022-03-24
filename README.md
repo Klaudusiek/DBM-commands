@@ -1,2 +1,2 @@
-# DBM-commands
-Rawki do dbm'a!
+# lobby
+Rawka na lobby
